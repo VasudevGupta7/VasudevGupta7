@@ -1,4 +1,12 @@
-### Hi there 👋
+### ⚡ Heeeeeellllllooo ⚡
+
+Good to know that you get time to checkout my GitHub. 
+
+I am Senior Undergraduate at IIT Madras, pursuing B.Tech in Mechanical engineering and M.Tech in Data Science. I love to work on coool stuff related to data science and Natural Language Processing. I am fascinated by the idea 🤔 that how AI is making our lives more comfortable and how people are making tons of money by taking advantage of human's laziness.
+
+I have done some research work on Transformers (especially, Low resource Machine Translation System) and open-sourced to some of the repositaries of HuggingFace. I am looking for working on cool projects involving transformers.
+
+Feel free to contact me if you want my help in the project related to data science. I would love to help. 👯
 
 <!--
 **VasudevGupta7/vasudevgupta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

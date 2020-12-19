@@ -7,7 +7,7 @@ I am a Senior Undergraduate at IIT Madras, pursuing B.Tech. in Mechanical engine
 I have done some research work on Transformers (especially, Low resource Machine Translation System) and currently doing open-source contribution to some of the repositaries of HuggingFace. I am looking for working on cool projects involving transformers.
 
 I am fascinated by the idea 🤔 how AI is making our lives more comfortable and how people are making tons of money by taking advantage of human's laziness.
-Feel free to contact me if you want my help in the project related to data science. I would love to help. 👯
+Feel free to contact me if you want my help in the project related to data science. I would love to help.
 
 <!--
 **VasudevGupta7/vasudevgupta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

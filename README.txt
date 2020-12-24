@@ -1,4 +1,4 @@
-### ⚡ Yoooooo ⚡
+⚡ Yoooooo ⚡
 
 Glad to know that you found time to checkout my GitHub. 
 

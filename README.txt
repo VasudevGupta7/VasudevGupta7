@@ -1,6 +1,6 @@
 ⚡ README ⚡
 
-🤗 An Undergraduate at IIT Madras, pursuing Data Science.
+🤗 An undergraduate at IIT Madras, pursuing Data Science.
 
 🤗 Love to work on coool projects related to Data Science & NLP; and building tools for easying survival in deep learning :)
 
